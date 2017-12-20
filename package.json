@@ -1,0 +1,11 @@
+{
+  "name": "workflows-w",
+  "version": "1.0.0",
+  "description": "A project to showcase workflows-w",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Keiko Ueda"
+}
