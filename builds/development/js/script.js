@@ -36,7 +36,7 @@ var rclick = function() {
   }
 }(); //anonymous closure
 
-var pixgrid = function() {
+var pixgride = function() {
     function centerImage(theImage) {
         var myDifX = (window.innerWidth - theImage.width) / 2, myDifY = (window.innerHeight - theImage.height) / 2;
         return theImage.style.top = myDifY + "px", theImage.style.left = myDifX + "px",
